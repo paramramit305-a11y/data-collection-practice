@@ -9,12 +9,14 @@ This work builds a strong foundation for **EDA, Data Analysis, and Machine Learn
 
 ## 📂 Project Structure
 
+---
+
 Data-Collection/
 │
-├── Web Scraping/
+├── │ ├── quote1.html
+│  Web Scraping/
 │ ├── scraped_data/
-│ │ ├── quote1.html
-│ │ ├── quote2.html
+││ ├── quote2.html
 │ │ └── ...
 │ │
 │ ├── cleaned_data/
