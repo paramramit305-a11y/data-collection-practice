@@ -5,12 +5,9 @@ It covers both **Web Scraping (HTML-based data)** and **Working with APIs (JSON-
 
 This work builds a strong foundation for **EDA, Data Analysis, and Machine Learning workflows**.
 
----
-
 ## 📂 Project Structure
 
----
-
+```
 Data-Collection/
 │
 ├── │ ├── quote1.html
@@ -25,12 +22,12 @@ Data-Collection/
 │ └── Scraping_activity.ipynb
 │
 ├── Working With APIs/
-│ ├── Practice_APIs.ipynb
 │ └── data_collection.ipynb
 │
 └── README.md
+│ ├── Practice_APIs.ipynb
 
----
+```
 
 ## 🕷️ 1️⃣ Web Scraping (HTML → CSV)
 
