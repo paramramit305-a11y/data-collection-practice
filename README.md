@@ -9,23 +9,20 @@ This work builds a strong foundation for **EDA, Data Analysis, and Machine Learn
 
 ```
 Data-Collection/
-│
-├── │ ├── quote1.html
-│  Web Scraping/
-│ ├── scraped_data/
-││ ├── quote2.html
-│ │ └── ...
-│ │
-│ ├── cleaned_data/
-│ │ └── life_quotes.csv
-│ │
-│ └── Scraping_activity.ipynb
+├── Web Scraping/
+│   ├── scraped_data/
+│   │   ├── quote1.html
+│   │   ├── quote2.html
+│   │   └── ...
+│   ├── cleaned_data/
+│   │   └── life_quotes.csv
+│   └── Scraping_activity.ipynb
 │
 ├── Working With APIs/
-│ └── data_collection.ipynb
+│   ├── Practice_APIs.ipynb
+│   └── data_collection.ipynb
 │
 └── README.md
-│ ├── Practice_APIs.ipynb
 
 ```
 
